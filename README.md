@@ -1,4 +1,17 @@
-## Welcome to GitHub Pages
+## Coding with Buhle Ndweni 
+
+### Here I share some of my _CV_, including _R_ code of the various spheres that are of interest to me. 
+
+-Building economic models for various healthcare interventions 
+
+-Health Economics Blog post using my data anlaysis skills 
+
+-Data journalism 
+
+### 
+
+
+
 
 You can use the [editor on GitHub](https://github.com/BuhleCodes/buhlecodes.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
